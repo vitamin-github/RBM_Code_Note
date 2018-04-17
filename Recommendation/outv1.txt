@@ -1,0 +1,18 @@
+/home/vitamin/anaconda2/lib/python2.7/site-packages/nose_parameterized/__init__.py:7: UserWarning: The 'nose-parameterized' package has been renamed 'parameterized'. For the two step migration instructions, see: https://github.com/wolever/parameterized#migrating-from-nose-parameterized-to-parameterized (set NOSE_PARAMETERIZED_NO_WARN=1 to suppress this warning)
+  "The 'nose-parameterized' package has been renamed 'parameterized'. "
+Using cuDNN version 5110 on context None
+Mapped name None to device cuda: GeForce GTX 1080 Ti (0000:02:00.0)
+0 366 0 35
+1.0
+num of epoch:5
+epoch 0 end, cost: 9.640800
+epoch 0 end, error: 0.312490
+epoch 1 end, cost: 4.511692
+epoch 1 end, error: 0.257923
+epoch 2 end, cost: 3.586654
+epoch 2 end, error: 0.241686
+epoch 3 end, cost: 3.770191
+epoch 3 end, error: 0.233489
+epoch 4 end, cost: 3.244753
+epoch 4 end, error: 0.225137
+(366, 210)
